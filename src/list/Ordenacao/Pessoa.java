@@ -3,7 +3,7 @@ package list.Ordenacao;
 import java.util.Comparator;
 
 public class Pessoa implements Comparable<Pessoa> {
-  //atributos
+
   private String nome;
   private int idade;
   private double altura;
